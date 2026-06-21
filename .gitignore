@@ -8,3 +8,17 @@ Thumbs.db
 *.tmp
 *.log
 
+# Unity generated folders (do not upload)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# Builds and archives belong in GitHub Releases
+*.exe
+*.dll
+*.zip
+*.7z
+*.rar
+
