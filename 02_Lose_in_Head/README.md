@@ -26,8 +26,10 @@
 - 游戏封面与场景截图；
 - 核心玩法 GIF 或演示视频；
 - 项目策划说明 PDF；
-- Windows 可运行版本（GitHub Releases）；
 - 个人职责与迭代记录。
 
-**关键词：** 叙事解谜、探索循环、线索系统、关卡流程、Unity 原型
+## 试玩版本
 
+[下载 Windows 试玩版](https://github.com/erhuiganlanshi/game-design-portfolio/releases/tag/lose-in-head-playtest-v1)
+
+**关键词：** 叙事解谜、探索循环、线索系统、关卡流程、Unity 原型
